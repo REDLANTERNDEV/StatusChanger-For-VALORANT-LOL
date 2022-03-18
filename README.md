@@ -2,11 +2,11 @@ Status Changer For VALORANT-League of Legends
 
 
 WARNING 
-```diff
 
-- text in red You cant use chat while playing game.
 
-- text in red You can connect to voice chat.
+ <span style="color:orange;">Word up</span> You cant use chat while playing game.
+
+ You can connect to voice chat.
 
 
 
