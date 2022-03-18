@@ -9,7 +9,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Status Changer For VALORANT-League of Legends")]
 [assembly: AssemblyDescription("You can change your status for Valorant and LoL")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Ibosoft")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Status Changer For VALORANT-League of Legends")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
