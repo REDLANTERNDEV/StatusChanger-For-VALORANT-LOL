@@ -4,7 +4,7 @@ Status Changer For VALORANT-League of Legends
 WARNING 
 
 
- <span style="color:orange;">Word up</span> You cant use chat while playing game.
+#00ff00 You cant use chat while playing game.
 
  You can connect to voice chat.
 
